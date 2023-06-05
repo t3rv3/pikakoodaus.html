@@ -7,3 +7,13 @@ h1 {
 p {
     color: blueviolet;
 }
+.G {
+    color:rgb(240, 90, 190)
+}
+img {
+    width: auto;
+    height: 200px;
+}
+ol {
+    text-align: center;
+}
